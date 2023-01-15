@@ -9,6 +9,7 @@ public class Address {
 
     @Column(length = 10)
     private String city;
+
     @Column(length = 20)
     private String street;
 
